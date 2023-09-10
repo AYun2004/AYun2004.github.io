@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Blog • All posts by \"论文\" tag",
+    "description": "",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2023/09/10/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/%E6%95%B0%E6%A8%A1%E8%AE%BA%E6%96%87%E6%A6%82%E8%BF%B0/%E6%95%B0%E6%A8%A1%E8%AE%BA%E6%96%87%E6%A6%82%E8%BF%B0/",
+            "url": "http://example.com/2023/09/10/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/%E6%95%B0%E6%A8%A1%E8%AE%BA%E6%96%87%E6%A6%82%E8%BF%B0/%E6%95%B0%E6%A8%A1%E8%AE%BA%E6%96%87%E6%A6%82%E8%BF%B0/",
+            "title": "数模论文概述",
+            "date_published": "2023-09-10T11:53:58.009Z",
+            "content_html": "<h1 id=\"数学建模论文的重要性\"><a class=\"markdownIt-Anchor\" href=\"#数学建模论文的重要性\">#</a> 数学建模论文的重要性</h1>\n<ol>\n<li>数学建模论文的写作是数学建模中重要的一个环节。数学建模的论文是参赛队工作的全面总结，也是评委评价建模成绩的主要依据；</li>\n<li>一篇好的论文应该逻辑清晰，在语言表述上清楚，数学符号标记清晰；</li>\n<li>对于读者或者评委理解参赛队数学模型、解题方法、思路和最终的结果都很重要；</li>\n<li>一篇好的论文应该把参赛队的工作清楚的展现出来。</li>\n</ol>\n<h1 id=\"数学建模参赛作品组成\"><a class=\"markdownIt-Anchor\" href=\"#数学建模参赛作品组成\">#</a> 数学建模参赛作品组成</h1>\n<p>竞赛论文电子版：摘要页，正文，参考文献，附录；</p>\n<p>支撑材料：源程序代码及调用说明，中间结果，支撑数据等。</p>\n<h1 id=\"数学建模论文基本构成\"><a class=\"markdownIt-Anchor\" href=\"#数学建模论文基本构成\">#</a> 数学建模论文基本构成</h1>\n<h2 id=\"首页论文题目摘要关键词\"><a class=\"markdownIt-Anchor\" href=\"#首页论文题目摘要关键词\">#</a> 首页：论文题目，摘要，关键词</h2>\n<h2 id=\"论文正文\"><a class=\"markdownIt-Anchor\" href=\"#论文正文\">#</a> 论文正文：</h2>\n<ol>\n<li>问题重述</li>\n<li>问题分析</li>\n<li>模型假设</li>\n<li>符号说明</li>\n<li>模型建立与求解</li>\n<li>模型检验 / 模型改进和推广</li>\n<li>模型优缺点评价</li>\n</ol>\n<p>参考文献</p>\n<p>附录</p>\n<h2 id=\"论文格式\"><a class=\"markdownIt-Anchor\" href=\"#论文格式\">#</a> 论文格式：</h2>\n<p>论文标题 —— 黑体三号，居中</p>\n<p>摘要标题 —— 黑体四号，居中</p>\n<p>摘要内容 —— 宋体，小四号</p>\n<p>关键词 —— 黑体，小四号</p>\n<p>正文一级标题 —— 黑体四号，居中</p>\n<p>正文二三级标题 —— 黑体小四号，居左</p>\n<p>正文 —— 宋体，小四号</p>\n<p>数字，字母等 ——Times New Roman</p>\n<p>页边距 —— 上下左右各 2.5 厘米</p>\n<p>论文页数 —— 正文尽量 20 页以内</p>\n",
+            "tags": [
+                "竞赛知识",
+                "数学建模",
+                "论文"
+            ]
+        }
+    ]
+}
