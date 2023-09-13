@@ -5,12 +5,14 @@
     <link href="http://example.com" />
     <updated>2023-09-01T04:00:10.000Z</updated>
     <category term="笔记" />
-    <category term="物理" />
-    <category term="大学物理" />
     <category term="数学" />
     <category term="复变函数" />
-    <category term="线性代数" />
+    <category term="物理" />
+    <category term="大学物理" />
+    <category term="专业课" />
+    <category term="模拟电路" />
     <category term="高等数学" />
+    <category term="线性代数" />
     <entry>
         <id>http://example.com/2023/09/01/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%9B%B8%E4%BC%BC%E7%9F%A9%E9%98%B5%E4%B8%8E%E4%BA%8C%E6%AC%A1%E5%9E%8B_hyszjZJEw4aTdjqdGVmMXW/</id>
         <title>相似矩阵与二次型</title>

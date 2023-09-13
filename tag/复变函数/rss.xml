@@ -8,12 +8,14 @@
         <pubDate>Sun, 10 Sep 2023 12:00:00 +0800</pubDate>
         <lastBuildDate>Sun, 10 Sep 2023 12:00:00 +0800</lastBuildDate>
         <category>笔记</category>
-        <category>物理</category>
-        <category>大学物理</category>
         <category>数学</category>
         <category>复变函数</category>
-        <category>线性代数</category>
+        <category>物理</category>
+        <category>大学物理</category>
+        <category>专业课</category>
+        <category>模拟电路</category>
         <category>高等数学</category>
+        <category>线性代数</category>
         <item>
             <guid isPermalink="true">http://example.com/2023/09/10/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E5%A4%8D%E6%95%B0%E4%B8%8E%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/</guid>
             <title>第一章 复数与复变函数</title>
